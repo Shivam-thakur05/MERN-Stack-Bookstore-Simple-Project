@@ -1,0 +1,65 @@
+[
+    {"id" : 1,
+    "name" : "John Doe",
+    "title": "Software Engineer",
+    "price":0,
+    "category":"free",
+    "image":"Banner.jpg"
+    },
+    {"id" : 2,
+    "name" : "Jane Smith",
+    "title": "Data Scientist",
+    "price":0,
+    "category":"free",
+    "image":"Banner.jpg"
+    },
+    {"id" : 3,
+    "name" : "Alice Johnson",
+    "title": "Product Manager",
+    "price":0,
+    "category":"free",
+    "image":"Banner.jpg"
+    },
+    {"id" : 4,
+    "name" : "Bob Brown",
+    "title": "UX Designer",
+    "price":0,
+    "category":"free",
+    "image":"Banner.jpg"
+    },
+    {"id" : 5,
+    "name" : "Charlie Davis",
+    "title": "DevOps Engineer",
+    "price":0,
+    "category":"free",
+    "image":"Banner.jpg"
+    },
+    {"id" : 6,
+    "name" : "Eve Wilson",
+    "title": "QA Engineer",
+    "price":0,
+    "category":"free",
+    "image":"Banner.jpg"
+    },
+    {"id" : 7,
+    "name" : "music book",
+    "title": "Music Theory",
+    "price":20,
+    "category":"song",
+    "image":"Banner.jpg"
+    },
+    {"id" : 8,
+    "name" : "cpp book",
+    "title": "C++ Programming",
+    "price":40,
+    "category":"study",
+    "image":"Banner.jpg"
+    },
+    {"id" : 9,
+    "name" : "story book",
+    "title": "Short Stories",
+    "price":20,
+    "category":"entertainment",
+    "image":"Banner.jpg"
+    }
+]
